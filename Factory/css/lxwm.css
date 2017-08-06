@@ -1,0 +1,15 @@
+#middle{height: 600px;}
+#middle #localnavi{clear: both; width: 173px;height: 600px;padding-left: 31px;padding-bottom: 32px;float: left;background-image: url('../img/bg_lnav_shadow.png');background-repeat:no-repeat;margin-right: 36px;}
+#middle #localnavi .root{width: 173px;height: 25px;background-color: #0a0a0a;font-size: 15px;}
+#middle #localnavi .root a{display: block;padding-top: 3px;padding-left: 38px; color: #fff;letter-spacing: 10px;}
+#middle #localnavi .root a:hover{background-color: #5c5b5b;}
+#middle #localnavi .trunk{width: 173px;height: 23px;margin-top: 8px;letter-spacing: 8px;}
+#middle #localnavi .lxwm{background-image: url('../img/bg_li.png');background-repeat:no-repeat;}
+#middle #localnavi .lxwm a{display: block;color: #fff;font-size: 14px;padding-left: 30px;}
+#middle #localnavi .lxwm a:hover{display: block;color: #fff;font-size: 14px;padding-left: 30px;}
+#middle #localnavi dl{width: 173px;margin-top: 20px;}
+#middle #localnavi dd{margin-top: 10px;padding-left: 10px;}
+#middle #localnavi dt{margin-top: 2px;padding-left: 10px;font-size: 14px;}
+#middle #maincontents{ width:730px;padding-bottom: 32px;float: left;}
+#middle #maincontents .txt{width:712px;background-image: url('../img/bg_h2.png');background-repeat: no-repeat;height: 30px;margin-top: 27px;margin-bottom: 15px;padding-left: 18px;letter-spacing: 12px;}
+#middle #maincontents #allmap{width: 600px;height: 450px;border: 1px solid #ccc;margin: auto;margin-top: 30px;}
